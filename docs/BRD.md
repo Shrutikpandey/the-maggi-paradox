@@ -32,3 +32,19 @@ This analysis is valuable to:
 
 \- \*\*Analysts\*\* studying real-world cases of brand resiliences
 
+
+
+\## Research Questions
+
+
+
+This project investigates why Maggi is widely seen as the undisputed leader of the Indian instant noodles market by examining three questions:
+
+
+
+1\. How fast did Maggi's market share recover after the 2015 ban, and does that speed make sense given how brand trust usually rebuilds after a crisis?
+
+2\. Why didn't competitors (Yippee, Knorr, Patanjali) capture the market during the ban's vacuum period?
+
+3\. Is Maggi's monopoly still intact today, or is it quietly eroding — particularly in light of Tata Consumer's acquisition of Capital Foods?s
+
