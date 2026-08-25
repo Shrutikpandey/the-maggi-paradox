@@ -46,5 +46,23 @@ This project investigates why Maggi is widely seen as the undisputed leader of t
 
 2\. Why didn't competitors (Yippee, Knorr, Patanjali) capture the market during the ban's vacuum period?
 
-3\. Is Maggi's monopoly still intact today, or is it quietly eroding — particularly in light of Tata Consumer's acquisition of Capital Foods?s
+3\. Is Maggi's monopoly still intact today, or is it quietly eroding — particularly in light of Tata Consumer's acquisition of Capital Foods?
+
+
+
+\## Scope
+
+
+
+\- \*\*Time period:\*\* 2001 (pre-ban baseline) – 2015 (ban) – late 2015 (relaunch) – present
+
+\- \*\*Geography:\*\* India
+
+\- \*\*Competitors covered:\*\* Yippee, Knorr, Patanjali, Wai Wai, Ching's Secret — the main mainstream instant noodle brands active during this period. Patanjali is of particular interest as it launched its noodles around the same time as the Maggi ban. Smaller regional players are excluded to keep the comparison focused.
+
+\- \*\*Data types included:\*\* secondary research, primary survey data, sentiment analysis, and other relevant data available online
+
+\- \*\*Data types excluded:\*\* in-store retail audits, paid data purchases (e.g., Nielsen/Euromonitor subscriptions)
+
+\- \*\*Depth boundary:\*\* strictly limited to Maggi instant noodles — other Nestlé/Maggi product lines (sauces, ketchup, etc.) are out of scopes
 
