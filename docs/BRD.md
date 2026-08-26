@@ -150,5 +150,19 @@ This project investigates why Maggi is widely seen as the undisputed leader of t
 
 \- \*\*Week 3:\*\* Framework building + analysis
 
-\- \*\*Week 4:\*\* Report writing + packaging + LinkedIn postss
+\- \*\*Week 4:\*\* Report writing + packaging + LinkedIn posts
+
+
+
+\## Success Criteria
+
+
+
+\- All three research questions answered with data-backed reasoning
+
+\- At least one original insight not found in existing news coverage
+
+\- Clean, professional final report and visuals
+
+\- Project shared with Nestlé and posted on LinkedIn/portfolio
 
