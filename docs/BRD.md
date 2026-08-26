@@ -124,3 +124,19 @@ This project investigates why Maggi is widely seen as the undisputed leader of t
 
 \- Survey responses (Google Forms)
 
+
+
+\## Deliverables
+
+
+
+\- Written research report (8–12 pages)
+
+\- 3–4 supporting visuals/charts (timeline, sentiment, market share, competitor comparison)
+
+\- GitHub repo with notebooks, BRD, and final report
+
+\- Possibly a short Power BI report (secondary deliverable)
+
+
+
