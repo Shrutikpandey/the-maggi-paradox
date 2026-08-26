@@ -66,3 +66,45 @@ This project investigates why Maggi is widely seen as the undisputed leader of t
 
 \- \*\*Depth boundary:\*\* strictly limited to Maggi instant noodles — other Nestlé/Maggi product lines (sauces, ketchup, etc.) are out of scopes
 
+
+
+\## Methodology
+
+
+
+\### For RQ1 — Recovery speed vs. brand-trust norms
+
+\- Data showing recovery speed: market share timeline, sales figures post-relaunch
+
+\- Data showing how brand trust usually rebuilds after a crisis: secondary research — articles/studies on brand crisis recovery timelines, for comparison
+
+\- What marketing strategies or advertisements were used to regain public trust
+
+
+
+\### For RQ2 — Why competitors didn't capture the vacuum
+
+\- Data on competitor actions during the ban: news coverage of other brands' moves
+
+\- Data on why they failed to capture share: distribution data (if available), pricing, analysis from news/expert commentary
+
+\- What gaps existed in their marketing/advertising that prevented them from gaining public trust
+
+
+
+\### For RQ3 — Is the monopoly still intact today?
+
+\- Current market share data (most recent available)
+
+\- The Tata/Capital Foods acquisition and its stated strategic intent
+
+\- Emerging pressure points (health trends, Korean ramen trend, etc.)
+
+
+
+\### Supporting layers across all three
+
+\- \*\*Sentiment analysis\*\* (news/social, ban period vs. relaunch) — feeds mainly into RQ1
+
+\- \*\*Survey\*\* (40–60 responses, 5–7 questions) — feeds mainly into RQ1, as a "consumer voice" supporting data point
+
