@@ -108,3 +108,19 @@ This project investigates why Maggi is widely seen as the undisputed leader of t
 
 \- \*\*Survey\*\* (40–60 responses, 5–7 questions) — feeds mainly into RQ1, as a "consumer voice" supporting data point
 
+
+
+\## Data Sources
+
+
+
+\- Nestlé India annual reports / investor relations page
+
+\- News archives (2015 ban coverage, relaunch coverage, recent Tata/Capital Foods coverage)
+
+\- Industry market research summaries (news-cited Nielsen/Euromonitor figures — not paid subscriptions, per project scope)
+
+\- Twitter/social sentiment data or news headlines (for sentiment analysis)
+
+\- Survey responses (Google Forms)
+
