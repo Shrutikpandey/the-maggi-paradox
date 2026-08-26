@@ -140,3 +140,15 @@ This project investigates why Maggi is widely seen as the undisputed leader of t
 
 
 
+\## Timeline
+
+
+
+\- \*\*Week 1:\*\* BRD + secondary research/timeline building
+
+\- \*\*Week 2:\*\* Survey design + distribution + sentiment analysis
+
+\- \*\*Week 3:\*\* Framework building + analysis
+
+\- \*\*Week 4:\*\* Report writing + packaging + LinkedIn postss
+
